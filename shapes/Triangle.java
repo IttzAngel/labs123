@@ -8,8 +8,4 @@ public class Triangle {
     public void calculateArea2(){
         System.out.println("The area of this triangle is " + base * height / 2);
     }
-
 }
-
-
-
