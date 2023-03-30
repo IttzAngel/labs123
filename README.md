@@ -1,4 +1,10 @@
 - you cannot start a variable name with a number
 - Math.pow(x, y) is for exponents, x is number and y is exponent
 - never use a java reserved word for a variable name
-
+- there are primitive variables and reference variables
+- java cares about type, it needs to make sense
+- make sure the value makes sense for the variable type and fits correctly
+- there is no object variable, it is an object reference variable
+- declare the refernce variables, then create the objects, then assign the objects to the reference variables
+- arrays are also objects and can be used as such
+- using the . is like pressing a button to use a method or instance variable
